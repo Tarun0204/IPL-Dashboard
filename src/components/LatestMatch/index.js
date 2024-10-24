@@ -16,7 +16,7 @@ const LatestMatch = props => {
 
   return (
     <div className="latest-match-container">
-      <h1 className="latest-match">Latest Matches</h1>
+      <h1 className="latest-match-heading">Latest Matches</h1>
       <div className="latest-match-card">
         <div className="latest-match-details-logo-container">
           <div className="latest-match-details-1">
